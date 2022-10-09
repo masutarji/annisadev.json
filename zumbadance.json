@@ -34,78 +34,53 @@
    ],
   "Categories": [
     {
-      "name_category": "Kaffah Official",
-      "image": "file:///android_asset/image/kaffah.jpg"
+      "name_category": "ZumbaDance",
+      "image": "https://5.imimg.com/data5/EN/HA/GLADMIN-63730703/zumba-dance-class-500x500.png"
     }
   ],
   "Video": [
     {
       "id": 1,
-      "name_category": "Kaffah Official",
-      "title": "Bumi Syam : Tanah Para Nabi",
-      "image": "file:///android_asset/image/syam.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
-      "description": "Contoh Video 1 : Video di unggah ke hosting pribadi dengan format *.mp4, support berbagai ektensi video"
+      "name_category": "ZumbaDance",
+      "title": "For Beginners",
+      "image": "https://www.healthwellbeing.com/wp-content/uploads/2021/03/zumba-dance.jpg",
+      "link_video": "https://archive.org/download/beginners_202204/beginners.mp4",
+      "description": "Zumba Dance Training For Beginners"
     },
     {
       "id": 2,
-      "name_category": "Kaffah Official",
-      "title": "Tiupan Sangsakala Hari Kiamat",
-      "image": "file:///android_asset/image/sangsakala.jpg",
-      "link_video": "https://ia601509.us.archive.org/31/items/alien2_202203/alien.mp4",
-      "description": "Contoh Video 2 : Video di unggah ke archive.org dengan format *.mp4, support berbagai ektensi video"
+      "name_category": "ZumbaDance",
+      "title": "Dance For Lose Weight",
+      "image": "https://cdn-fjhhd.nitrocdn.com/PttlfFtSSLPdvvFNUeRoqHeAVkcVaFGM/assets/static/optimized/rev-dbf3e1b/wp-content/uploads/2021/04/Zumba-Dance-Workout-1024x576.jpg",
+      "link_video": "https://archive.org/download/lose-weight-exercisw/Lose%20Weight%20exercisw.mp4",
+      "description": "Dance Training For Lose Weight"
     }
   ,
     {
       "id": 3,
-      "name_category": "Kaffah Official",
-      "title": "Kisah Turunnya Kitab Taurat",
-      "image": "https:/aliendro.id/uploads/demo/videoonline/taurat.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
-      "description": "Contoh Video 3 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+      "name_category": "ZumbaDance,
+      "title": "Gold Zumba Dance for beginners",
+      "image": "https://cdn1-production-images-kly.akamaized.net/Zup5cTwWUI-r0MFZtjiJzgt1wTo=/1200x675/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2490505/original/043745400_1543343037-zumba-dance-manfaatnya-bukan-cuma-untuk-kesehatan-fisik-saja.jpg",
+      "link_video": "https://archive.org/download/dctvma-Zumba_Gold_Fitness/Zumba_Gold_Fitness.mp4",
+      "description": "Zumba Dance Gold Fitness"
     }
     ,
     {
       "id": 4,
-      "name_category": "Kaffah Official",
-      "title": "Runtuhnya Israel Di Akhir Zaman",
-      "image": "file:///android_asset/image/israel.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 4 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+      "name_category": "ZumbaDance",
+      "title": "Zumba Dance Fitness",
+      "image": "https://cimg3.ibsrv.net/cimg/www.fitday.com/693x350_85-1/179/21_Zumba-109179.jpg",
+      "link_video": "https://archive.org/download/zumbasepertimatilampu5/Zumba%20Seperti%20Mati%20Lampu%205.mp4",
+      "description": "Zumba Dance Fitness Training with happy songs"
     }
   ,
     {
       "id": 5,
-      "name_category": "Kaffah Official",
-      "title": "Sejarah Perang Khandak",
-      "image": "file:///android_asset/image/khandak.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
-      "description": "Contoh Video 5 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    }
-  ,
-    {
-      "id": 6,
-      "name_category": "Kaffah Official",
-      "title": "Sejarah Perang Ain Zalut",
-      "image": "file:///android_asset/image/zalut.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 6 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    } ,
-    {
-      "id": 7,
-      "name_category": "Ferry Chanel",
-      "title": "Kisah Imam Malik",
-      "image": "https://img.youtube.com/vi/LMfGloeVWTE/maxresdefault.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 7 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    },
-    {
-      "id": 8,
-      "name_category": "Ferry Chanel",
-      "title": "Alam Malaikat",
-      "image": "https://img.youtube.com/vi/-RFS6z52LgY/maxresdefault.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 8 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+      "name_category": "ZumbaDance",
+      "title": "Zumba For Beginners",
+      "image": "https://5.imimg.com/data5/EN/HA/GLADMIN-63730703/zumba-dance-class-500x500.png",
+      "link_video": "https://archive.org/download/dctvma-Zumba_Gold_Fitness_-_January_2021/Zumba_Gold_Fitness_-_January_2021.mp4",
+      "description": "Zumba Dance for Beginners"
     }
   ]
 }
