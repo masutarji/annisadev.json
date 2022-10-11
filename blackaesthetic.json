@@ -16,9 +16,9 @@
 
   "startapp_app_id": "21077x",
 
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
+  "unity_id": "4967049",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
 
   "interstitial_inverval": 2,
 
