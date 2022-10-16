@@ -13,7 +13,7 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -44,33 +44,33 @@
     {
       "id": 1,
       "name_category": "Manual",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "title": "Faq About ycc365",
+      "image": "https://www.diforen.com/wp-content/uploads/2020/06/HTB1wnHlXOzxK1RjSspjq6AS.pXaN_.jpg",
+      "description": "Faq About Ycc365 Camera",
       "link": "https://masutarji.github.io/isinya/faq.html"
     },
     {
       "id": 2,
       "name_category": "Manual",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "title": "Function introduction",
+      "image": "https://www.diforen.com/wp-content/uploads/2020/05/YCC365-1080P-Cloud-HD-IP-Camera-WiFi-Auto-Tracking-Camera-Baby-Monitor-Night-Vision-Security-Camera-3.jpg",
+      "description": "Function introduction About ycc365",
       "link": "https://masutarji.github.io/isinya/functionintro.html"
     },
     {
       "id": 3,
       "name_category": "Manual",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "title": "Addition of AP hotspot",
+      "image": "https://i.ytimg.com/vi/yRXMCA4L99w/maxresdefault.jpg",
+      "description": "Addition of AP hotspot about ycc365",
       "link": "https://masutarji.github.io/isinya/additionaphotspot.html"
     },
     {
       "id": 4,
       "name_category": "Manual",
-      "title": "Cara menggunakan Alien SDK Ads",
+      "title": "Connect Camera Add Device",
       "image": "https://s1.bukalapak.com/img/17288451171/large/YCC365_CCTV_IP_Camera_1080P_720P_Home__1_.jpg.webp",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "description": "How to Connect Camera Add Device",
       "link": "https://masutarji.github.io/isinya/howtoconnect.html"
     }
   ]
