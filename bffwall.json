@@ -4,7 +4,7 @@
     "bestfriend"
   ],
   "init_jumlah_photo": 50,
-  "admob_banner_id": "ca-app-pub-1961763088641942/3825448068x",
+  "admob_banner_id": "ca-app-pub-1961763088641942/3825448068",
   "admob_interstitial_id": "ca-app-pub-1961763088641942/5330101427",
   "admob_native_id": "ca-app-pub-1961763088641942/3881288388",
 
@@ -20,7 +20,7 @@
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
 
-  "interstitial_inverval": 2,
+  "interstitial_inverval": 3,
 
   "primary_ads": "ADMOB",
   "list_ads": [
