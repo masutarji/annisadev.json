@@ -7,8 +7,8 @@
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"db4d5e8718b97d78x",
+      "backup_ads_intertitial":"518cd97722c60b52x",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
@@ -44,18 +44,18 @@
     {
       "id": 1,
       "name_category": "Tutor",
-      "title": "Lacak Lokasi WA dengan G Maps",
-      "image": "https://asset.kompas.com/crops/D4yXrKCMTXWpJWKmEihQvTZsbdE=/0x0:1145x763/750x500/data/photo/2019/12/11/5df0d5da3b505.jpeg",
-      "description": "Cara Lacak Lokasi WA dengan G Maps",
-      "link": "https://darwindroid.github.io/gambar/hptanpaplikasi.html"
+       "title": "Melacak nomor HP tanpa aplikasi",
+      "image": "http://cdn2.hubspot.net/hub/4650993/avast-blog/file-3555182101-jpg/blog-files/lost-mobile-phone.jpg",
+      "description": "Cara Melacak nomor HP tanpa aplikasi",
+      "link": "https://darwindroid.github.io/gambar/gmaps.html"
     },
     {
       "id": 2,
       "name_category": "Tutor",
-      "title": "Melacak nomor HP tanpa aplikasi",
-      "image": "https://cdn1-production-images-kly.akamaized.net/-lBjY4Fz75vzhlDBrEbaQdc7aZs=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2715869/original/030899800_1548755399-pixavay_lost_phone.jpg",
-      "description": "Cara Melacak nomor HP tanpa aplikasi",
-      "link": "https://darwindroid.github.io/gambar/gmaps.html"
+      "title": "Lacak Lokasi WA dengan G Maps",
+      "image": "https://www.cnet.com/a/img/resize/4c35fd5d74bea285d8838b997953e38813e8d3cb/hub/2014/05/06/6c289d5c-f1a2-4871-bc47-a39e7336005e/googlemapsoffline.jpg",
+      "description": "Cara Lacak Lokasi WA dengan G Maps",
+      "link": "https://darwindroid.github.io/gambar/hptanpaplikasi.html"
     },
     {
       "id": 3,
