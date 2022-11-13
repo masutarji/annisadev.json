@@ -3,14 +3,14 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-5569984805152303/5697755711",
+      "main_ads_natives":"ca-app-pub-5569984805152303/8028405583",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "open_ads_admob":"",
-      "open_ads_alien":"",
+      "open_ads_alien":"ca-app-pub-5569984805152303/5521166901",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
       "interval_intertitial": 1,
@@ -83,8 +83,16 @@
     }
   ],
   "Data": [
-    {
+       {
       "id": 1,
+      "name_category": "BPJSTK",
+      "title": "Cek Saldo BPJSTK Disini",
+      "image": "https://blog.skillacademy.com/hs-fs/hubfs/Dashboard-BPJS-Ketenagakerjaan.png?width=600&name=Dashboard-BPJS-Ketenagakerjaan.png",
+      "description": "Silahkan Cek saldo BPJS Ketenagakerjaan Disini",
+      "link": "https://sso.bpjsketenagakerjaan.go.id"
+    },
+    {
+      "id": 2,
       "name_category": "BPJSTK",
       "title": "Apa Itu BPJS Ketenagakerjaan",
       "image": "https://img.okezone.com/content/2022/09/28/320/2676445/cara-cek-nomor-bpjs-ketenagakerjaan-jika-kartunya-hilang-cukup-lewat-hp-saja-VrRpfXM3Ee.jpg",
@@ -92,7 +100,7 @@
       "link": "https://masutarji.github.io/isinya/pengertian.html"
     },
     {
-      "id": 2,
+      "id": 3,
       "name_category": "BPJSTK",
       "title": "Cek via Aplikasi JMO",
       "image": "https://img.okezone.com/content/2022/10/07/320/2682732/cara-daftar-bpjs-ketenagakerjaan-untuk-freelance-dan-wirausaha-IL4ZkXjnzw.jpg",
@@ -100,7 +108,7 @@
       "link": "https://masutarji.github.io/isinya/viaplikasijmo.html"
     },
     {
-      "id": 3,
+      "id": 4,
       "name_category": "BPJSTK",
       "title": "Cek Via Website",
       "image": "https://sepulsa.com/blog/wp-content/uploads/2017/02/via-SMS.png",
@@ -108,7 +116,7 @@
       "link": "https://masutarji.github.io/isinya/viaweb.html"
     },
     {
-      "id": 4,
+      "id": 5,
       "name_category": "BPJSTK",
       "title": "Cek Via SMS",
       "image": "https://media.suara.com/pictures/970x544/2021/01/18/18993-bpjs-ketenagakerjaan.jpg",
